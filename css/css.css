@@ -169,20 +169,19 @@ ol{list-style:lower-latin}
 @media screen and(max-width:800px){
    .contenedor{width:100%;
     }
-        #contenido{width:100%;
+        #contenido{width:100%;{
+            font-size:12px;
     }
-    .main{width:100%;
+    .main{width:100%;{
        }
-       #bloque{width:100%;
+       #bloque{width:100%;{
+           font-size:12px;
         }
-header{width:90%;
+header{width:90%;{
+    font-size:12px;
     }
-h1{width:100%
+
     }
-    h2{width:100%
-    }
-    h3{width:100%
-    }
-}
+
 
     
