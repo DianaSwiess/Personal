@@ -158,8 +158,16 @@ ol{list-style:lower-latin}
     #contenido{width:100%;
     }
     .main{width:100%;
+    }
+ #bloque{width:100%;
     }}
 @media screen and(max-width:400px){
-    width:100%;
-}
+   .contenedor{width:100%;
+    }
+        #contenido{width:100%;
+    }
+    .main{width:100%;
+       }
+       #bloque{width:100%;
+        }}
   
