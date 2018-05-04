@@ -15,7 +15,7 @@ body{
     background-color:gainsboro;}
 
 .contenedor{width:90%;
-   max-width:1000px;
+   max-width:10000px;
     height:90%;
     margin:0 auto;
     background:red;}
