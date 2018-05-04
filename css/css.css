@@ -18,7 +18,8 @@ body{
    max-width:10000px;
     height:90%;
     margin:0 auto;
-    background:red;}
+    background:blue;
+box-sizing:border-box;}
 
 #bloque{
     width:90%;
@@ -53,6 +54,7 @@ header{
     text-align:center;
     cellpadding:4px;
     background-color:darkgray;
+    box-sizing:border-box;
 }
 header nav{
     float:none;
@@ -104,7 +106,8 @@ margin-left:0%;
 margin-right:8%;
 margin-bottom:0px; 
 text-align: left;
-padding:4px;    
+padding:4px;   
+box-sizing:border-box;    
 }
 
 #contenido{width:80%;
@@ -116,6 +119,8 @@ margin-left:3%;
 margin-right:10%;
 text-align: center;
 padding:4px;
+cellpadding:4px;
+cellspacing:4px;    
 box-sizing:border-box;}
 
 #footer {
