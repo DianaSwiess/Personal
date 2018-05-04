@@ -30,9 +30,9 @@ body{
     float:left; }
 
 
-img{
-    height:450px;
-    width: 65%;
+.main img{
+    height:auto;
+    width: 100%;
     margin-top:10px;
     margin-left:0%;
     margin-right:0%;
