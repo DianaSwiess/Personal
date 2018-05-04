@@ -14,7 +14,7 @@ and open the template in the editor.
 body{
     background-color:gainsboro;}
 
-.contenedor{width:1000px;
+.contenedor{width:80%;
    max-width:1000px;
     margin:0 auto;
     background:grey;}
@@ -101,7 +101,7 @@ margin-bottom:0px;
 text-align: left;
 }
 
-#contenido{width:82%;
+#contenido{width:90%;
 float:left;
 height:900px; 
 background-color:darkgrey;
