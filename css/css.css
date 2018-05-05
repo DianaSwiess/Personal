@@ -167,6 +167,9 @@ ol{list-style:lower-latin}
 
 
 @media screen and(max-width:500px){
+    body{
+        font-size:12px;
+    }
    .contenedor{
        width:100%;
     }
