@@ -14,9 +14,9 @@ and open the template in the editor.
 body{
     background-color:gainsboro;}
 
-.contenedor{width:90%;
+.contenedor{width:80%;
    max-width:10000px;
-    height:90%;
+    height:80%;
     margin:0 auto;
     background:blue;
 box-sizing:border-box;}
