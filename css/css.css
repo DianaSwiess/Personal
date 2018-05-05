@@ -12,13 +12,16 @@ and open the template in the editor.
       margin:0px;
 }
 body{
-    background-color:gainsboro;}
+    background-color:gainsboro;
+}
 
-.contenedor{width:80%;
+.contenedor{
+    width:80%;
    max-width:10000px;
     height:80%;
     margin:0 auto;
     background:blue;
+    padding:20%;
 box-sizing:border-box;}
 
 #bloque{
@@ -32,6 +35,7 @@ box-sizing:border-box;}
     text-align:left;
     float:left; 
     cellpadding:4px;
+    padding:20%;
     box-sizing:border-box;}
 
 
@@ -169,6 +173,7 @@ ol{list-style:lower-latin}
 @media screen and(max-width:500px){
     body{
         font-size:12px;
+        background:#ff000;
     }
    .contenedor{
        width:100%;
