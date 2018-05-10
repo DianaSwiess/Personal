@@ -12,8 +12,14 @@ and open the template in the editor.
       margin:0px;
 }
 body{
-    background-color:gainsboro;
-}
+    background-color:gainsboro;}
+
+.contenedor{width:90%;
+   max-width:10000px;
+    height:90%;
+    margin:0 auto;
+    background:blue;
+box-sizing:border-box;}
 
 #bloque{
     width:90%;
@@ -26,7 +32,6 @@ body{
     text-align:left;
     float:left; 
     cellpadding:4px;
-    padding:20%;
     box-sizing:border-box;}
 
 
@@ -107,13 +112,14 @@ box-sizing:border-box;
 
 #contenido{width:80%;
 float:left;
-height:900px; 
+height:1000px; 
 background-color:darkgrey;
 margin-bottom:1px;
 margin-left:3%;
 margin-right:10%;
 text-align: center;
 padding:4px;
+box-shadow:4px;
 cellpadding:4px;
 cellspacing:4px;    
 box-sizing:border-box;}
@@ -161,9 +167,26 @@ abbr:expanded{color:whitesmoke}
 ol{list-style:lower-latin}
 
 
-
-}
+@media screen and(max-width:500px){
+    body{
+        font-size:12px;
     }
-
-
+   .contenedor{
+       width:100%;
+    }
+        #contenido{
+            width:100%;
+             font-size:12px;
+    }
+    .main{
+        width:100%;
+       }
+       #bloque{width:100%;
+           font-size:10px;
+        }
+header{width:90%;
+    font-size:12px;
+    }
+}
     
+
