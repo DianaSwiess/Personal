@@ -15,15 +15,6 @@ body{
     background-color:gainsboro;
 }
 
-.contenedor{
-    width:80%;
-   max-width:10000px;
-    height:80%;
-    margin:0 auto;
-    background:blue;
-    padding:20%;
-box-sizing:border-box;}
-
 #bloque{
     width:90%;
     height:100px;
