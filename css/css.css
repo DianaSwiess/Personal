@@ -22,7 +22,7 @@ body{
 box-sizing:border-box;}
 
 #bloque{
-    width:90%;
+    width:80%;
     height:100px;
     margin: auto;
     margin-top:0px;
@@ -37,7 +37,7 @@ box-sizing:border-box;}
 
 .main img{
     height:auto;
-    width: 100%;
+    width: 80%;
     margin-top:10px;
     margin-left:0%;
     margin-right:0%;
@@ -48,7 +48,7 @@ box-sizing:border-box;}
 
 header{
     height:70px;
-    width: 90%;
+    width: 80%;
     line-height:30px;
     margin-bottom:5px;
     text-align:center;
@@ -99,7 +99,7 @@ font-size:190px;
 width:100%; height:100px; background-image:inherit;
 }
 
-#cabecera{width:100%; 
+#cabecera{width:80%; 
 height: 60px; 
 background-color:black;
 margin-left:0%;
