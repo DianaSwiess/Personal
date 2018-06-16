@@ -15,7 +15,7 @@ body{
     background-color:gainsboro;
         font-family: Arial;}
 
-.contenedor{width:100%;
+.contenedor{width:1000PX;
    max-width:1000px;
     margin:0 auto;
     background:blue;
@@ -37,7 +37,7 @@ box-sizing:border-box;}
 
 .main img{0
     height:auto;
-    width: 90%;
+    width: 100%;
     margin-top:10px;
     margin-left:0%;
     margin-right:0%;
@@ -100,7 +100,7 @@ width:100%; height:100px; background-image:inherit;
 }
 
 #cabecera{width:100%; 
-height: 100px; 
+height: 1000px; 
 background-color:black;
 margin-left:0%;
 margin-right:8%;
