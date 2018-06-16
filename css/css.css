@@ -22,7 +22,7 @@ body{
 box-sizing:border-box;}
 
 #bloque{
-    width:90%;
+    width:100%;
     height:100px;
     margin: auto;
     margin-top:0px;
@@ -100,8 +100,7 @@ width:100%; height:100px; background-image:inherit;
 }
 
 #cabecera{width:100%; 
-height: 60px; 
-max-width:1000px;
+height: 80px; 
 background-color:black;
 margin-left:0%;
 margin-right:8%;
@@ -185,7 +184,7 @@ ol{list-style:lower-latin}
        #bloque{width:100%;
            font-size:10px;
         }
-header{width:90%;
+header{width:100%;
     font-size:12px;
     }
 }
