@@ -22,7 +22,7 @@ body{
 box-sizing:border-box;}
 
 #bloque{
-    width:80%;
+    width:100%;
     height:100px;
     margin: auto;
     margin-top:0px;
@@ -47,7 +47,7 @@ box-sizing:border-box;}
 
 
 header{
-    height:70px;
+    height:100px;
     width: 90%;
     line-height:30px;
     margin-bottom:5px;
@@ -99,7 +99,7 @@ font-size:190px;
 width:100%; height:100px; background-image:inherit;
 }
 
-#cabecera{width:70%; 
+#cabecera{width:90%; 
 height: 100px; 
 background-color:black;
 margin-left:0%;
