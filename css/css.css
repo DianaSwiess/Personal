@@ -17,6 +17,7 @@ body{
 
 .contenedor{width:100%;
    max-width:1000px;
+    height:90%;
     margin:0 auto;
     background:blue;
 box-sizing:border-box;}
