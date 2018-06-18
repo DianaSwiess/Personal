@@ -38,7 +38,7 @@ box-sizing:border-box;}
 
 .main img{
     height:auto;
-    width: 90%;
+    width: 100%;
     margin-top:10px;
     margin-left:0%;
     margin-right:0%;
@@ -51,8 +51,8 @@ box-sizing:border-box;}
 
 header{
     height:80px;
-    width: 100%;
-    line-height:40px;
+    width: 90%;
+    line-height:30px;
     margin-bottom:5px;
     text-align:center;
     cellpadding:2px;
