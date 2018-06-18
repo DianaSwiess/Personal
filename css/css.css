@@ -174,24 +174,23 @@ ol{list-style:lower-latin}
 
 
 @media screen and (max-width: 500px){
-    body{
-        
-        background:beige;
+    body{ background:beige;
     }
    .contenedor{
        width:100%;
+       box-sizing:border-box;
     }
-        #contenido{
-            width:100%;
-             font-size:12px;
-            box-sizing:border-box;
+    #contenido{
+     width:100%;
+     font-size:12px;
+     box-sizing:border-box;
     }
-    
-       }
-       #bloque{width:100%;
-           box-sizing:border-box;
+    #bloque{
+    width:100%;
+    box-sizing:border-box;
         }
-header{width:100%;
+header{
+   width:100%;
    box-sizing:border-box; 
     }
 
