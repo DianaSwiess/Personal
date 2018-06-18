@@ -61,13 +61,13 @@ header{
 }
 header nav{
     float:none;
-    text-align:center;
+    text-align:left;
    
 }
 
 header nav ul li{
     display:inline-block;
-    padding:0 30px;
+    padding:0 50px;
 }
 header nav ul li a{
 text-decoration:blueviolet;
