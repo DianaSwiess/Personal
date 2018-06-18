@@ -44,8 +44,9 @@ box-sizing:border-box;}
     margin-right:0%;
     margin-bottom:0px;
     text-align:right;
+    padding:4px;
     box-sizing:border-box;
-
+    
 }
 header{
     height:200px;
