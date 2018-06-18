@@ -47,16 +47,7 @@ box-sizing:border-box;}
     padding:4px;
     box-sizing:border-box;   
 }
-aside{
-    height:80px;
-    width: 90%;
-    line-height:50px;
-    margin-bottom:5px;
-    text-align:center;
-    cellpadding:4px;
-    background-color:darkgray;
-    box-sizing:border-box;
-}
+
 
 header{
     height:80px;
@@ -210,6 +201,7 @@ ol{list-style:lower-latin}
            box-sizing:border-box;
         }
 header{width:100%;
+    font-size:30px;
    box-sizing:border-box; 
     }
 
