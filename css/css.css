@@ -150,7 +150,7 @@ h1{
 font-family:serif;
 font-size:30px;
 color:floralwhite;
-text-align:left;}
+text-align:center;}
 
 h2{font-family:inherit;
 font-size:30px;
@@ -163,6 +163,12 @@ font-size:20px;
 color:seashell;
 text-align:center;
 }
+h4{
+font-family:inherit;
+font-size:30px;
+color:bisque;
+text-align:center;}
+
 a:link{color:white}
 a:visited{color:white}
 a:determinate{color:azure} 
