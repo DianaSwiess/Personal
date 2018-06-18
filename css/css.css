@@ -49,12 +49,12 @@ box-sizing:border-box;}
 }
 
 header{
-    height:70px;
+    height:80px;
     width: 90%;
     line-height:30px;
     margin-bottom:5px;
     text-align:center;
-    cellpadding:2px;
+    cellpadding:4px;
     background-color:darkgray;
     box-sizing:border-box;
 }
