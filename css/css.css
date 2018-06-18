@@ -156,7 +156,7 @@ color:floralwhite;
 text-align:left;}
 
 h2{font-family:inherit;
-font-size:50px;
+font-size:40px;
 color:black;
 text-align:center;}
 
@@ -173,7 +173,7 @@ abbr:expanded{color:whitesmoke}
 ol{list-style:lower-latin}
 
 
-@media screen and (max-width: 400px){
+@media screen and (max-width: 500px){
     body{
         
         background:beige;
@@ -189,11 +189,9 @@ ol{list-style:lower-latin}
     
        }
        #bloque{width:100%;
-           font-size:10px;
            box-sizing:border-box;
         }
 header{width:100%;
-    font-size:10px;
    box-sizing:border-box; 
     }
 
