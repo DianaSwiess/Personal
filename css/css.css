@@ -150,7 +150,7 @@ h1{
 font-family:serif;
 font-size:30px;
 color:floralwhite;
-text-align:center;}
+text-align:left;}
 
 h2{font-family:inherit;
 font-size:30px;
@@ -166,8 +166,8 @@ text-align:center;
 
 h4{
 font-family:inherit;
-font-size:40px;
-color:seashell;
+font-size:35px;
+color:cornsilk;
 text-align:center;}
 
 a:link{color:white}
