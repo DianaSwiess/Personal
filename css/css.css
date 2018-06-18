@@ -33,7 +33,7 @@ box-sizing:border-box;}
     text-align:left;
     float:left; 
     cellpadding:4px;
-    padding:20px;
+    padding:2px;
     box-sizing:border-box;}
 
 
@@ -57,7 +57,7 @@ header{
     margin-bottom:5px;
     text-align:center;
     cellpadding:4px;
-    padding:20px;
+    padding:2px;
     background-color:darkgray;
     box-sizing:border-box;
 }
