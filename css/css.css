@@ -39,7 +39,7 @@ box-sizing:border-box;}
 
 .main img{
     height:auto;
-    width: 100%;
+    width: 90%;
     margin-top:10px;
     margin-left:0%;
     margin-right:0%;
@@ -83,8 +83,8 @@ float:left;
 border:5px;  
 width:90%;
 height:1200px;
-cellpadding:4;
-cellspacing:4;
+cellpadding:2;
+cellspacing:2;
 mrgin-top:0px;
 margin-left:0%;
 margin-right:45%;
@@ -94,7 +94,7 @@ box-sizing:border-box;
 }
 section a{
 font-family:monospace;
-font-size:250px;
+font-size:200px;
 color:#F1C40F;
 }
 
@@ -173,7 +173,8 @@ ol{list-style:lower-latin}
 
 
 @media screen and (max-width: 500px){
-    body{ background:beige;
+    body{ 
+    background:beige;
     }
    .contenedor{
        width:100%;
