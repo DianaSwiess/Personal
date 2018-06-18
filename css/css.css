@@ -170,7 +170,7 @@ abbr:expanded{color:whitesmoke}
 ol{list-style:lower-latin}
 
 
-@media screen and(max-width:500px){
+@media screen and (max-width: 800px){
     body{
         font-size:12px;
         background:blue;
@@ -202,11 +202,7 @@ ol{list-style:lower-latin}
 header{width:100%;
    box-sizing:border-box; 
     }
-h2{
-    font-size:30px;
-color:white;
-     box-sizing:border-box;
-}
+
 }
 
     
