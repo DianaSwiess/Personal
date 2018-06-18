@@ -170,7 +170,7 @@ abbr:expanded{color:whitesmoke}
 ol{list-style:lower-latin}
 
 
-@media screen and(max-width:500px){
+@media screen and(min-width:800px){
     body{
         font-size:12px;
         background:blue;
