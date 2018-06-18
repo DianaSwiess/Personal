@@ -51,8 +51,8 @@ box-sizing:border-box;}
 
 header{
     height:80px;
-    width: 90%;
-    line-height:30px;
+    width: 100%;
+    line-height:40px;
     margin-bottom:5px;
     text-align:center;
     cellpadding:2px;
@@ -82,8 +82,8 @@ float:left;
 border:5px;  
 width:90%;
 height:1200px;
-cellpadding:2;
-cellspacing:2;
+cellpadding:4;
+cellspacing:4;
 mrgin-top:0px;
 margin-left:0%;
 margin-right:45%;
@@ -93,7 +93,7 @@ box-sizing:border-box;
 }
 section a{
 font-family:monospace;
-font-size:200px;
+font-size:250px;
 color:#F1C40F;
 }
 
@@ -114,9 +114,9 @@ padding:4px;
 box-sizing:border-box;    
 }
 
-#contenido{width:100%;
+#contenido{width:80%;
 float:left;
-height:1200px; 
+height:1000px; 
 background-color:darkgrey;
 margin-bottom:1px;
 margin-left:3%;
