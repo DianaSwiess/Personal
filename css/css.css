@@ -129,11 +129,17 @@ box-sizing:border-box;
 }
 
 #contenido{width:100%;
-float:left;
 height:1000px; 
 background-color:darkgrey;
+background:url(../imagen/imagen2.JPG);
+background-size: cover;
+background-attachment:fixed;
+margin:0 auto;
+padding:0px;
+position:relative;
+background-repeat:no-repeat;
 margin-bottom:1px;
-margin-left:3%;
+margin-left:20%;
 margin-right:10%;
 text-align: center;
 box-shadow:4px;
