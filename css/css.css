@@ -8,7 +8,6 @@ and open the template in the editor.
     Author     : Diana Margarita
 */
 
-
 *{padding: 0px;
       margin:0px;
 }
@@ -76,7 +75,7 @@ height:800px;
 background:url(../imagen/image7.jpg);
 background-size: cover;
 background-attachment:fixed;
-background-repeat:no-repeat;
+background-repeat:no-repeat; 
 margin:0 auto;
 padding:4px;
 position:relative;
@@ -208,5 +207,4 @@ header{width:90%;
     }
 }
     
-
 
