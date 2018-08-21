@@ -31,7 +31,7 @@ box-sizing:border-box;}
 
 #bloque{
     width:100%;
-    height:600px;
+    height:800px;
     background:url(../imagen/imagen10.jpg);
 background-size: cover;
 background-color:gainsboro;
@@ -42,7 +42,7 @@ padding:0px;
 position:relative;
 margin: auto;
 margin-top:10px;
-margin-left:3%;
+margin-left:20%;
 margin-right:10%;
 margin-bottom:0px;
  text-align:left;
