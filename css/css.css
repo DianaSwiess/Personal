@@ -24,25 +24,30 @@ position:relative;
 background-repeat:no-repeat;
 box-sizing:border-box;}
 
-.contenedor{width:100%;
-   max-width:1000px;
-    height:90%;
+.contenedor{width:80%;
+   max-width:1500px;
     margin:0 auto;
-    background:blue;
 box-sizing:border-box;}
 
 #bloque{
     width:100%;
     height:100px;
-    margin: auto;
-    margin-top:0px;
-    margin-left:3%;
-    margin-right:10%;
-    margin-bottom:0px;
-    text-align:left;
-    float:left; 
-    cellpadding:4px;
-    box-sizing:border-box;}
+    background:url(../imagen/foto.PNG);
+background-size: cover;
+background-color:gainsboro;
+background-attachment:fixed;
+margin:0 auto;
+padding:0px;
+position:relative;
+margin: auto;
+margin-top:0px;
+margin-left:3%;
+margin-right:10%;
+margin-bottom:0px;
+ text-align:left;
+ float:left; 
+cellpadding:4px;
+ box-sizing:border-box;}
 
 
 .main img{
