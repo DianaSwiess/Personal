@@ -184,28 +184,133 @@ a:determinate{color:azure}
 abbr:expanded{color:whitesmoke}
 ol{list-style:lower-latin}
 
-
-@media screen and(max-width:500px){
-    body{
-        font-size:12px;
-       
+@media screen and (max-width:400px){
+  h1{
+font-family:serif;
+font-size:27px;
+color:white;
+    }
+     h2{
+font-family:serif;
+font-size:25px;
+color:white;
+    }
+     h3{
+font-family:serif;
+font-size:20px;
+color:white;
+   
     }
    .contenedor{
        width:100%;
     }
-        #contenido{
-            width:100%;
-             font-size:12px;
+    #contenido{
+     width:100%;
+     box-sizing:border-box;
     }
-    .main{
-        width:100%;
-       }
-       #bloque{width:100%;
-           font-size:10px;
+    #bloque{
+    width:100%;
+    box-sizing:border-box;
         }
-header{width:90%;
-    font-size:12px;
+    
+header{
+   width:100%;
+   box-sizing:border-box; 
     }
+ .main{
+     width:100%;
+   box-sizing:border-box; 
+    }
+    
+#footer{display:none;
+}
 }
     
+@media screen and(max-width:500px){
+    
+  
+      h1{
+font-family:serif;
+font-size:27px;
+color:white;
+  
+    }
+     h2{
+font-family:serif;
+font-size:25px;
+color:white;
 
+    }
+     h3{
+font-family:serif;
+font-size:20px;
+color:white;
+   
+    }
+   .contenedor{
+       width:100%;
+    }
+    #contenido{
+     width:100%;
+     box-sizing:border-box;
+    }
+    #bloque{
+    width:100%;
+    box-sizing:border-box;
+        }
+header{
+   width:100%;
+   box-sizing:border-box; 
+    }
+ .main{
+     width:100%;
+   box-sizing:border-box; 
+    }
+     
+}
+    
+@media screen and(max-width:600px){
+   
+  
+     h1{
+font-family:serif;
+font-size:27px;
+color:white;
+transition: all 02s; 
+    
+    }
+     h2{
+font-family:serif;
+font-size:25px;
+color:white;
+  
+    }
+     h3{
+font-family:serif;
+font-size:20px;
+color:white;
+  
+    }
+   .contenedor{
+       width:100%;
+    }
+    #contenido{
+     width:100%;
+     box-sizing:border-box;
+    }
+    #bloque{
+    width:100%;
+    box-sizing:border-box;
+        }
+header{
+   width:100%;
+   box-sizing:border-box; 
+    }
+ .main{
+     width:100%;
+   box-sizing:border-box; 
+    }
+    
+#footer{display:none;
+}
+}
