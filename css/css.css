@@ -193,18 +193,18 @@ color:white;
      h2{
 font-family:serif;
 font-size:25px;
-color:white;
+color:blue;
     }
      h3{
 font-family:serif;
 font-size:20px;
-color:white;
+color:gold;
    
     }
     h4{
 font-family:serif;
 font-size:20px;
-color:red;
+color:black;
     }
    .contenedor{
        width:100%;
@@ -242,20 +242,19 @@ color:white;
     }
      h2{
 font-family:serif;
-font-size:20px;
-color:white;
-
+font-size:25px;
+color:blue;
     }
      h3{
 font-family:serif;
 font-size:20px;
-color:white;
+color:gold;
    
     }
     h4{
 font-family:serif;
 font-size:20px;
-color:red;
+color:black;
     }
    .contenedor{
        width:100%;
@@ -291,20 +290,19 @@ transition: all 02s;
     }
      h2{
 font-family:serif;
-font-size:20px;
+font-size:25px;
 color:blue;
-  
     }
      h3{
 font-family:serif;
 font-size:20px;
 color:gold;
-  
+   
     }
-     h4{
+    h4{
 font-family:serif;
 font-size:20px;
-color:red;
+color:black;
     }
    .contenedor{
        width:100%;
