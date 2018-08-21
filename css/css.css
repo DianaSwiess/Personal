@@ -8,13 +8,14 @@ and open the template in the editor.
     Author     : Diana Margarita
 */
 
+
 *{padding: 0px;
       margin:0px;
 }
 
 body{ width:100%;
  height: 100%;
-background:url(../imagen/imagen2.JPG);
+background:url(../imagen/fondo.jpg);
 background-size: cover;
 background-color:gainsboro;
 background-attachment:fixed;
@@ -25,69 +26,80 @@ background-repeat:no-repeat;
 box-sizing:border-box;}
 
 .contenedor{width:80%;
-   max-width:1500px;
+   max-width:2500px;
     margin:0 auto;
 box-sizing:border-box;}
-
-#cabecera{width:100%; 
-height: 60px; 
-background-color:black;
-margin-left:0%;
-margin-right:0%;
-margin-bottom:0px; 
-text-align: center;
-padding:4px;   
-box-sizing:border-box;    
-}
-
 
 #bloque{
     width:100%;
     height:800px;
     background:url(../imagen/imagen10.jpg);
 background-size: cover;
-background-color:gainsboro;
+background-color:transparent;
 background-attachment:fixed;
 background-repeat:no-repeat;
 margin:0 auto;
 padding:0px;
 position:relative;
-margin: auto;
-margin-top:10px;
-margin-left:5%;
+margin-top:0px;
+margin-left:3%;
 margin-right:10%;
 margin-bottom:0px;
  text-align:left;
 cellpadding:4px;
- box-sizing:border-box;}
+ box-sizing:border-box;
+}
 
-#contenido{width:100%;
-height:1200px; 
-background-color:darkgrey;
+#contenido{
+width:100%;
+height:1200px;
 background:url(../imagen/imagen2.JPG);
 background-size: cover;
+background-color:transparent;
 background-attachment:fixed;
-margin:0 auto;
-padding:0px;
-position:relative;
 background-repeat:no-repeat;
-margin-bottom:1px;
-margin-left:5%;
+margin:0 auto;
+padding:4px;
+position:relative;
+margin-top:0px;
+margin-left:3%;
 margin-right:10%;
-text-align: center;
+margin-bottom:0px;
+ text-align:left;
+cellpadding:4px;
+ box-sizing:border-box;
+}
+
+
+#main {width:100%;
+height:800px;
+background:url(../imagen/image7.jpg);
+background-size: cover;
+background-attachment:fixed;
+background-repeat:no-repeat;
+margin:0 auto;
+padding:4px;
+position:relative;
+margin-bottom:1px;
+margin-left:3%;
+margin-right:10%;
+text-align:center;
+padding:4px;
 box-shadow:4px;
 cellpadding:4px;
 cellspacing:4px;    
 box-sizing:border-box;}
+    
+
 
 header{
-    height:200px;
+    height:100px;
     width: 100%;
     line-height:30px;
-    margin-bottom:5px;
+    margin-bottom:0px;
     text-align:center;
     cellpadding:4px;
-    background-color:darkgray;
+    background-color:transparent;
     box-sizing:border-box;
 }
 header nav{
@@ -98,7 +110,7 @@ header nav{
 
 header nav ul li{
     display:inline-block;
-    padding:20 50px;
+    padding:5px 30px;
 }
 header nav ul li a{
 text-decoration:blueviolet;
@@ -107,49 +119,19 @@ transition: all 02s;
 header nav ul li a:hover{
 color:dimgray;
 
-}
-#section{
-float:left;
-border:5px;  
-width:90%;
-height:1200px;
-cellpadding:4;
-cellspacing:4;
-mrgin-top:0px;
-margin-left:0%;
-margin-right:45%;
-margin-bottom:0px;
-text-align:right;
-box-sizing:border-box; 
-}
-section a{
-font-family:monospace;
-font-size:250px;
-color:#F1C40F;
+
+
 }
 
-section {
-color:aquamarine;
-font-size:190px;
-width:100%; height:100px; background-image:inherit;
-}
-.main{
-    height:auto;
-    width: 100%;
-    background:url(../imagen/imagen2.JPG);
-    background-size: cover;
-    background-attachment:fixed;
-    margin:0 auto;
-    padding:0px;
-    position:relative;
-    background-repeat:no-repeat;
-    margin-top:10px;
-    margin-left:5%;
-    margin-right:10%;
-    margin-bottom:0px;
-    text-align:right;
-    cellpadding:4px;
-    box-sizing:border-box; 
+#cabecera{width:100%; 
+height: 60px; 
+background-color:black;
+margin-left:0%;
+margin-right:8%;
+margin-bottom:0px; 
+text-align: left;
+padding:4px;   
+box-sizing:border-box;    
 }
 
 
@@ -169,32 +151,32 @@ margin-left:0%;
 margin-right:0%;
 margin-bottom:0px;
 text-align: center;
-}    
+box-sizing:border-box;}    
 
            
 h1{
 font-family:serif;
-font-size:30px;
-color:floralwhite;
-text-align:left;}
+font-size:60px;
+color:appworkspace;
+text-align:center;}
 
 h2{font-family:inherit;
-font-size:30px;
-color:black;
+font-size:50px;
+color:blue;
 text-align:center;}
 
 h3{
 font-family:inherit;
-font-size:20px;
-color:seashell;
+font-size:40px;
+color:gold;
 text-align:center;
 }
-
 h4{
-font-family:inherit;
-font-size:35px;
-color:cornsilk;
-text-align:center;}
+    font-family:inherit;
+font-size:40px;
+color:whitesmoke;
+text-align:center;
+}
 
 a:link{color:white}
 a:visited{color:white}
@@ -203,28 +185,28 @@ abbr:expanded{color:whitesmoke}
 ol{list-style:lower-latin}
 
 
-@media screen and (max-width: 600px){
-    body{ 
-    background:beige;
+@media screen and(max-width:500px){
+    body{
+        font-size:12px;
+       
     }
    .contenedor{
        width:100%;
-       box-sizing:border-box;
     }
-    #contenido{
-     width:100%;
-     font-size:12px;
-     box-sizing:border-box;
+        #contenido{
+            width:100%;
+             font-size:12px;
     }
-    #bloque{
-    width:100%;
-    box-sizing:border-box;
+    .main{
+        width:100%;
+       }
+       #bloque{width:100%;
+           font-size:10px;
         }
-header{
-   width:100%;
-   box-sizing:border-box; 
+header{width:90%;
+    font-size:12px;
     }
-
 }
     
+
 
