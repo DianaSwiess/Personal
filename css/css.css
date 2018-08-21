@@ -31,7 +31,7 @@ box-sizing:border-box;}
 
 #bloque{
     width:100%;
-    height:100px;
+    height:400px;
     background:url(../imagen/foto.PNG);
 background-size: cover;
 background-color:gainsboro;
