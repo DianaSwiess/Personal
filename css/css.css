@@ -24,7 +24,7 @@ position:relative;
 background-repeat:no-repeat;
 box-sizing:border-box;}
 
-.contenedor{width:80%;
+.contenedor{width:70%;
    max-width:2500px;
     margin:0 auto;
 box-sizing:border-box;}
@@ -281,15 +281,20 @@ transition: all 02s;
     }
      h2{
 font-family:serif;
-font-size:25px;
-color:white;
+font-size:20px;
+color:blue;
   
     }
      h3{
 font-family:serif;
 font-size:20px;
-color:white;
+color:gold;
   
+    }
+     h4{
+font-family:serif;
+font-size:20px;
+color:red;
     }
    .contenedor{
        width:100%;
