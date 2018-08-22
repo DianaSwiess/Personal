@@ -19,7 +19,7 @@ background-size: cover;
 background-color:gainsboro;
 background-attachment:fixed;
 margin:0 auto;
-padding:30px;
+padding:0px;
 position:relative;
 background-repeat:no-repeat;
 box-sizing:border-box;}
@@ -39,14 +39,15 @@ background-color:transparent;
 background-attachment:fixed;
 background-repeat:no-repeat;
 margin:0 auto;
-padding:0px;
+padding:10px;
 position:center;
 margin-top:0px;
 margin-left:3%;
 margin-right:10%;
 margin-bottom:0px;
  text-align:left;
-cellpadding:4px;
+cellpadding:10px;
+cellspace:10px;
  box-sizing:border-box;
 }
 
