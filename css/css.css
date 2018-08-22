@@ -190,7 +190,7 @@ ol{list-style:lower-latin}
   h1{
 font-family:serif;
 font-size:27px;
-color:red;
+color:white;
     }
      h2{
 font-family:serif;
@@ -245,36 +245,31 @@ color:purple;
      h2{
 font-family:serif;
 font-size:25px;
-color:red;
+color:blue;
     }
      h3{
 font-family:serif;
 font-size:20px;
-color:red;
+color:whit;
    
     }
     h4{
 font-family:serif;
 font-size:20px;
-color:red;
+color:gold;
     }
-   .contenedor{
-       width:100%;
-    }
+   
     #contenido{
      width:80%;
      box-sizing:border-box;
     }
     #bloque{
-    width:100%;
+    width:80%;
     box-sizing:border-box;
         }
-header{
-   width:100%;
-   box-sizing:border-box; 
-    }
+
  .main{
-     width:100%;
+     width:80%;
    box-sizing:border-box; 
     }
      
