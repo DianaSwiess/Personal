@@ -191,7 +191,7 @@ ol{list-style:lower-latin}
   h1{
 font-family:serif;
 font-size:27px;
-color:white;
+color:red;
     }
      h2{
 font-family:serif;
@@ -207,7 +207,7 @@ color:gold;
     h4{
 font-family:serif;
 font-size:20px;
-color:blue;
+color:pink;
     }
    .contenedor{
        width:100%;
@@ -222,7 +222,7 @@ color:blue;
         }
     
 header{
-   width:100%;
+   width:50%;
    box-sizing:border-box; 
     }
  .main{
@@ -240,27 +240,27 @@ header{
       h1{
 font-family:serif;
 font-size:20px;
-color:white;
+color:purple;
   
     }
      h2{
 font-family:serif;
 font-size:25px;
-color:blue;
+color:red;
     }
      h3{
 font-family:serif;
 font-size:20px;
-color:gold;
+color:red;
    
     }
     h4{
 font-family:serif;
 font-size:20px;
-color:black;
+color:red;
     }
    .contenedor{
-       width:70%;
+       width:100%;
     }
     #contenido{
      width:70%;
@@ -271,7 +271,7 @@ color:black;
     box-sizing:border-box;
         }
 header{
-   width:100%;
+   width:70%;
    box-sizing:border-box; 
     }
  .main{
@@ -291,18 +291,18 @@ transition: all 02s;
      h2{
 font-family:serif;
 font-size:25px;
-color:blue;
+color:white;
     }
      h3{
 font-family:serif;
 font-size:20px;
-color:gold;
+color:white;
    
     }
     h4{
 font-family:serif;
 font-size:20px;
-color:red;
+color:white;
     }
    .contenedor{
        width:100%;
@@ -316,7 +316,7 @@ color:red;
     box-sizing:border-box;
         }
 header{
-   width:100%;
+   width:80%;
    box-sizing:border-box; 
     }
  .main{
