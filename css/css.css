@@ -214,12 +214,16 @@ color:pink;
     #contenido{
      width:100%;
      text-align:center;
-     display:block;
+     display:flex;
+     flex-direction:row;
+     flex-wrap:wrap;
      box-sizing:border-box;
     }
     #bloque{
     width:100%;
-    display:block;
+    display:flex;
+     flex-direction:row;
+     flex-wrap:wrap;
     text-align:center;    
     margin-left:auto;
 margin-right:auto;
@@ -228,12 +232,16 @@ margin-right:auto;
     
 header{
    width:100%;
-    display:block;
+    display:flex;
+     flex-direction:row;
+     flex-wrap:wrap;
    box-sizing:border-box; 
     }
  .main{
      width:100%;
-     display:block;
+     display:flex;
+     flex-direction:row;
+     flex-wrap:wrap;
      text-align:center;
      margin-left:auto;
      margin-right:auto;
@@ -281,7 +289,9 @@ margin-right:auto;
     #bloque{
     width:100%;
     text-align:center;
-    display:block;    
+     display:flex;
+     flex-direction:row;
+     flex-wrap:wrap;  
      margin-left:auto;
 margin-right:auto;
     box-sizing:border-box;
@@ -289,7 +299,9 @@ margin-right:auto;
 
  .main{
      width:100%;
-     display:block;
+     display:flex;
+     flex-direction:row;
+     flex-wrap:wrap;
      text-align:center;
      margin-left:auto;
     margin-right:auto;
@@ -327,7 +339,9 @@ color:white;
     #contenido{
      width:100%;
         text-align:center;
-        display:block;
+        display:flex;
+     flex-direction:row;
+     flex-wrap:wrap;
         margin-left:auto;
 margin-right:auto;
       background-position: center;
@@ -337,14 +351,18 @@ margin-right:auto;
     #bloque{
     width:100%;
         text-align:center;
-        display:block;
+        display:flex;
+     flex-direction:row;
+     flex-wrap:wrap;
         margin-left:auto;
     box-sizing:border-box;
         }
 header{
    width:100%;
     text-align:center;
-    display:block;
+    display:flex;
+     flex-direction:row;
+     flex-wrap:wrap;
     margin-left:auto;
 margin-right:auto;
    box-sizing:border-box; 
@@ -352,7 +370,9 @@ margin-right:auto;
  .main{
      text-align:center;
      width:100%;
-     display:block;
+     display:flex;
+     flex-direction:row;
+     flex-wrap:wrap;
      margin-left:auto;
 margin-right:auto;
    box-sizing:border-box; 
