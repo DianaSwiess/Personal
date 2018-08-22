@@ -55,7 +55,7 @@ height:1200px;
 background:url(../imagen/imagen2.JPG);
 background-size: cover;
 background-color:transparent;
-background-attachment:fixed;
+background-attachment:center;
 background-repeat:no-repeat;
 position:center;
 margin:0 auto;
