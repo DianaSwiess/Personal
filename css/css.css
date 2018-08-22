@@ -10,6 +10,8 @@ and open the template in the editor.
 
 *{padding: 0px;
       margin:0px;
+    box-sizing:border-box;}
+
 }
 
 body{ width:100%;
