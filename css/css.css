@@ -209,23 +209,23 @@ font-size:20px;
 color:pink;
     }
    .contenedor{
-       width:100%;
+       width:80%;
     }
     #contenido{
-     width:50%;
+     width:100%;
      box-sizing:border-box;
     }
     #bloque{
-    width:50%;
+    width:100%;
     box-sizing:border-box;
         }
     
 header{
-   width:50%;
+   width:100%;
    box-sizing:border-box; 
     }
  .main{
-     width:50%;
+     width:100%;
    box-sizing:border-box; 
     }
     
@@ -262,19 +262,19 @@ color:red;
        width:100%;
     }
     #contenido{
-     width:70%;
+     width:80%;
      box-sizing:border-box;
     }
     #bloque{
-    width:70%;
+    width:100%;
     box-sizing:border-box;
         }
 header{
-   width:70%;
+   width:100%;
    box-sizing:border-box; 
     }
  .main{
-     width:70%;
+     width:100%;
    box-sizing:border-box; 
     }
      
