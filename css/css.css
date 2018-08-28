@@ -47,6 +47,7 @@ margin-right:10%;
 margin-bottom:0px;
  text-align:left;
 cellpadding:4px;
+flex:auto;
  box-sizing:border-box;
 }
 
@@ -68,6 +69,7 @@ margin-right:10%;
 margin-bottom:0px;
  text-align:left;
 cellpadding:4px;
+    flex:auto;
  box-sizing:border-box;
 }
 
@@ -89,7 +91,8 @@ text-align:center;
 padding:4px;
 box-shadow:4px;
 cellpadding:4px;
-cellspacing:4px;    
+cellspacing:4px;  
+fle:auto;
 box-sizing:border-box;}
     
 
