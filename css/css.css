@@ -35,7 +35,7 @@ box-sizing:border-box;
     
 }
 .contenedor{
-    width: 60%;
+    width: 80%;
     height: 200%;
   box-shadow: 0 0 12px rgba(0, 0, 0,0.8);
     margin:0 auto;
@@ -207,4 +207,26 @@ box-sizing:border-box;
         top:15px;
         right: 35px;
     }
+    @media screen and(max-width:500px){
+    body{
+        font-size:12px;
+       
+    }
+   .contenedor{
+       width:100%;
+    }
+        #contenido{
+            width:100%;
+             font-size:12px;
+    }
+    .main{
+        width:100%;
+       }
+       #bloque{width:100%;
+           font-size:10px;
+        }
+header{width:90%;
+    font-size:12px;
+    }
+}
     
