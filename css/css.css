@@ -13,14 +13,15 @@ and open the template in the editor.
     height: 100%;
 }
 
-bod{
+body{
     background-color:azure;
     color:blue;
 }
 #cabecera{
     width: 100%;
-    height: 80px;
+    height: 70px;
     background-color:black;
+    box-shadow: 0 0 12px rgba(0, 0, 0,0.8);
     opacity:0.6;
     text-align: center;
     margin: auto;
@@ -28,46 +29,30 @@ bod{
     margin-left:0%;
     margin-right:0%;
     margin-bottom:0px;
-    padding:4px;   
+    padding:20px;   
 box-sizing:border-box;   
     
 }
 .contenedor{
-    width: 80%;
+    width: 90%;
     height: 300%;
   box-shadow: 0 0 12px rgba(0, 0, 0,0.8);
     margin:0 auto;
     box-sizing: border-box;
 }
 
-  
-img{
-    width: 10%;
-    height: 70px;
-    margin: auto;
-    margin-top:0px;
-    margin-left:5%;
-    margin-right:90%;
-    margin-bottom:0px;
-    padding: 10px;
-    border:5px;
-    color:aliceblue;
-    float:left;
-    box-sizing:border-box;
-}
 #contenido{
 width:100%;
 height:50px;
 margin:0 auto;
 max-width:100%;
-padding:4px;
+padding:20px;
 background-color:floralwhite;
 margin-top:0px;
 margin-left:0%;
 margin-right:0%;
 margin-bottom:0px;
 text-align:center;
-cellpadding:4px;
 justify-content: center;
 box-sizing:border-box;
 }
@@ -78,7 +63,7 @@ box-sizing:border-box;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
-    background-position:left;
+    background-position: relative;
     padding:20px;
     float:left;
     box-sizing: border-box;
@@ -87,8 +72,6 @@ box-sizing:border-box;
     margin-bottom: 0px;
     text-align: center;
     padding: 20px;
-    max-width: 100%;
-    max-width: 1550px;
   float:left;
 }
 #main{
@@ -104,8 +87,6 @@ width: 100%;
     margin-bottom: 0px;
     text-align: center;
     padding: 20px;
-    max-width: 100%;
-    max-width: 1550px;
   float:left;
 }
 #aside{
