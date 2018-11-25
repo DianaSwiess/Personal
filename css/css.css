@@ -204,6 +204,7 @@ box-sizing:border-box;
         font-size: 40px;
         top:15px;
         right: 35px;
+        
     }
     @media screen and(max-width:500px){
     body{
@@ -219,9 +220,11 @@ box-sizing:border-box;
     }
     .main{
         width:100%;
+        background-attachment:none;
        }
        #bloque{width:100%;
            font-size:10px;
+           background-attachment: none;
         }
 header{width:90%;
     font-size:12px;
