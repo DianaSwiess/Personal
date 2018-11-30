@@ -60,7 +60,7 @@ justify-content: center;
 box-sizing:border-box;
 }
 #bloque{
-    width: 100%;
+    width: 40%;
     height:700px;
     background:url(../imagen/imagen10.jpg);
     background-attachment: fixed;
@@ -76,7 +76,7 @@ box-sizing:border-box;
     
 }
 #main{
-width: 100%;
+width: 40%;
     height:700px;
     background:url(../imagen/fondo.jpg);
     background-attachment: fixed;
@@ -98,6 +98,7 @@ width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
     box-sizing: border-box;
+     background-position:relative;
     margin: auto;
     margin-top: 0px;
     margin-bottom: 0px;
