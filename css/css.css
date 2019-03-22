@@ -59,6 +59,7 @@ box-sizing:border-box;
     background:url(../imagen/imagen10.jpg);
    background-repeat:no-repeat;
     background-size:cover;
+    position:absolute;
     display:flex;
     align-items: center;
     flex-direction: column;
